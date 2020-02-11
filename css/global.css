@@ -143,6 +143,14 @@ body {
   letter-spacing: 0.73px; 
   line-height: 54px;
   text-decoration: none;
+  -webkit-user-select: none;
+  -moz-user-select:    none;
+  -ms-user-select:     none;
+  user-select:         none;
+  -webkit-appearance: none;
+  -moz-appearance:    none;
+  appearance:         none;
+  -webkit-tap-highlight-color: transparent;
 }
 .address__text {
   letter-spacing: -0.27px;  
