@@ -1,0 +1,20 @@
+.slider {
+  padding: 0;
+}
+.slider  .services__block {
+  max-width: none;
+  min-height: 262px;
+  margin: 0 20px;
+}
+.slider .slick-prev {
+  display: none;
+}
+
+.slider .slick-next {
+  display: none;
+}
+@media screen and (max-width: 400px) {
+  .slider  .services__block {
+    margin: 0 10px;
+  }
+}
