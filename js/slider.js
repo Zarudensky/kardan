@@ -5,7 +5,7 @@ function windowSize(){
 			centerMode: true,
 			centerPadding: '80px',
 			autoplay: true,
-			autoplaySpeed: 2500,
+			autoplaySpeed: 2000,
 			pauseOnHover: false,
 			dots: false,
 			arrows: false,
